@@ -1,6 +1,6 @@
 # HR-Data-Analytics
 
-Je suis ravi de partager avec vous mon premier tableau de bord Power BI où j'ai utilisé l'ensemble de données HR Data Analytics.
-La tâche consistait à créer un tableau de bord d'analyse de données à l'aide de Power BI pour automatiser les opérations RH.
+I'm excited to share with you my first Power BI dashboard where I used the HR Data Analytics data set.
+The task was to create a data analytics dashboard using Power BI to automate HR operations.
 
 ![image](https://github.com/HoussamElMountassir/HR-Data-Analytics/assets/100229872/6d3cc7f6-c96d-4588-a6f4-9c854ac10ac1)
